@@ -1,0 +1,2 @@
+# NearBy
+Foursquare API integration
